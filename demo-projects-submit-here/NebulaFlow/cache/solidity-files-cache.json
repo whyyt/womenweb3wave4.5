@@ -1,0 +1,196 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/yeyutong/project/NebulaFlow/contracts/ActivityFactory.sol": {
+      "lastModificationDate": 1764229167671,
+      "contentHash": "8318b8f8b694cd836458fb45312a496d",
+      "sourceName": "contracts/ActivityFactory.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "viaIR": true,
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./Challenge.sol",
+        "./ActivityRegistry.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "ActivityFactory"
+      ]
+    },
+    "/Users/yeyutong/project/NebulaFlow/contracts/Challenge.sol": {
+      "lastModificationDate": 1764180852243,
+      "contentHash": "d9208a5c0e9bf0536337ba84e86b04c6",
+      "sourceName": "contracts/Challenge.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "viaIR": true,
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "Challenge"
+      ]
+    },
+    "/Users/yeyutong/project/NebulaFlow/contracts/ActivityRegistry.sol": {
+      "lastModificationDate": 1764229158241,
+      "contentHash": "3ba46c5b11da0e33e7260007cc95b630",
+      "sourceName": "contracts/ActivityRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "viaIR": true,
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "ActivityRegistry"
+      ]
+    },
+    "/Users/yeyutong/project/NebulaFlow/contracts/NFTActivityFactory.sol": {
+      "lastModificationDate": 1764295939345,
+      "contentHash": "c8726fb6c1de4bc5c65f3af11a88885a",
+      "sourceName": "contracts/NFTActivityFactory.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "viaIR": true,
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./NFTActivity.sol",
+        "./ActivityRegistry.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "NFTActivityFactory"
+      ]
+    },
+    "/Users/yeyutong/project/NebulaFlow/contracts/NFTActivity.sol": {
+      "lastModificationDate": 1764295918499,
+      "contentHash": "71708a1ef81702182a661d55bf40006c",
+      "sourceName": "contracts/NFTActivity.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "viaIR": true,
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "NFTActivity"
+      ]
+    }
+  }
+}
